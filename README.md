@@ -95,7 +95,7 @@ L'application doit déterminer quelles sont les couleurs, dans la proposition de
   Attention: une couleur est considérée comme "absente" s'il n'y a pas suffisamment d'exemplaires de celle-ci dans la solution. Par exemple, si la solution est **R V B C**, la proposition **V V R R** doit répondre par un bien placé (un **V**ert), un mal placé (un **R**ouge), et deux absents (car il n'y a qu'un seul **V**ert et qu'un seul **R**ouge dans la solution).
 </details>
 
-### 4. Trouver les couleurs absentes
+### 4. Trouver les couleurs mal placées
 
 L'application doit déterminer quelles sont les couleurs, dans la proposition de l'utilisateur, qui sont présentes dans la solution fixe, mais mal placées.
 
