@@ -1,4 +1,4 @@
-package Utils;
+package com.example.utils;
 
 public enum ConsoleColor {
     //Color end string, color reset
